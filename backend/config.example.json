@@ -1,0 +1,4 @@
+{
+  "mongo_url": "YOUR_ATLAS_URL",
+  "admin_key": "CHANGE_THIS_KEY"
+}
